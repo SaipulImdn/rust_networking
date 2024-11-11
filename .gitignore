@@ -1,0 +1,13 @@
+# Binaries
+/target
+**/*.rs.bk
+
+# Ignoring the Cargo.lock file
+Cargo.lock
+
+# Ignore any temporary files created by editors or operating systems
+*.swp
+*.swo
+*.DS_Store
+*.idea/
+*.vscode/
